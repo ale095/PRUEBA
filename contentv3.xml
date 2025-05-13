@@ -72,7 +72,7 @@ Desarrollar la capacidad creativa de los estudiantes, fomentando su habilidad pa
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -86,11 +86,11 @@ Desarrollar la capacidad creativa de los estudiantes, fomentando su habilidad pa
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="RCF"></unicode>
+  <unicode value="xxx"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="37"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="12"></int>
+  <int value="14"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -174,9 +174,9 @@ Desarrollar la capacidad creativa de los estudiantes, fomentando su habilidad pa
            <string role="key" value="anchor_names"></string>
            <list></list>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/LOGO_2.jpg&quot; alt=&quot;&quot; width=&quot;154&quot; height=&quot;168&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;&lt;strong&gt;               &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;&lt;strong&gt;                       &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;&lt;strong&gt;UNIVERSIDAD NACIONAL DE LOJA&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;          FACULTAD DE LA EDUCACIÓN, EL ARTE Y LA COMUNICACIÓN&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;     PEDAGOGÍA DE LAS CIENCIAS EXPERIMENTALES INFORMÁTICA&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/LOGO_2.jpg&quot; alt=&quot;&quot; width=&quot;154&quot; height=&quot;168&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;&lt;strong&gt;               &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;&lt;strong&gt;                                                        &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;&lt;strong&gt;UNIVERSIDAD NACIONAL DE LOJA&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;                                              FACULTAD DE LA EDUCACIÓN, EL ARTE Y LA COMUNICACIÓN&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;                                           PEDAGOGÍA DE LAS CIENCIAS EXPERIMENTALES INFORMÁTICA&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;&lt;strong&gt;      Escritura Creativa&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: georgia, palatino, serif;&quot;&gt;Asignatura:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -304,7 +304,7 @@ Desarrollar la capacidad creativa de los estudiantes, fomentando su habilidad pa
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="singlepage"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Escritura%20Creativa%20"></string>
      <string role="key" value="parent"></string>
@@ -469,7 +469,7 @@ Desarrollar la capacidad creativa de los estudiantes, fomentando su habilidad pa
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Escritura%20Creativa%20:%20Descripci%C3%B3n%20del%20Recurso"></string>
         <string role="key" value="parent"></string>
@@ -870,7 +870,7 @@ Desarrollar la capacidad creativa de los estudiantes, fomentando su habilidad pa
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Escritura%20Creativa%20:POEMAS%20"></string>
         <string role="key" value="parent"></string>
@@ -1035,7 +1035,7 @@ Desarrollar la capacidad creativa de los estudiantes, fomentando su habilidad pa
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Escritura%20Creativa%20:POEMAS%20:ELEMENTOS%20"></string>
            <string role="key" value="parent"></string>
@@ -2463,7 +2463,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="singlepage"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Escritura%20Creativa%20:POEMAS%20:ELEMENTOS%20:ACTIVIDADES"></string>
               <string role="key" value="parent"></string>
@@ -4125,7 +4125,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                  <int value="2"></int>
                  <string role="key" value="exportType"></string>
-                 <string value="singlepage"></string>
+                 <string value="website"></string>
                  <string role="key" value="last_full_node_path"></string>
                  <string value="exe-node:Escritura%20Creativa%20:POEMAS%20:ELEMENTOS%20:ACTIVIDADES:Leer%20y%20comprender%20poemas"></string>
                  <string role="key" value="parent"></string>
@@ -4333,7 +4333,7 @@ clicking the red X next to the option."></unicode>
                     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                     <int value="2"></int>
                     <string role="key" value="exportType"></string>
-                    <string value="singlepage"></string>
+                    <string value="website"></string>
                     <string role="key" value="last_full_node_path"></string>
                     <string value="exe-node:Escritura%20Creativa%20:POEMAS%20:ELEMENTOS%20:ACTIVIDADES:Leer%20y%20comprender%20poemas:Recitar%20Poemas%20"></string>
                     <string role="key" value="parent"></string>
@@ -4880,7 +4880,7 @@ clicking the red X next to the option."></unicode>
                        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                        <int value="2"></int>
                        <string role="key" value="exportType"></string>
-                       <string value="singlepage"></string>
+                       <string value="website"></string>
                        <string role="key" value="last_full_node_path"></string>
                        <string value="exe-node:Escritura%20Creativa%20:POEMAS%20:ELEMENTOS%20:ACTIVIDADES:Leer%20y%20comprender%20poemas:Recitar%20Poemas%20:Crea%20tu%20Poema%20"></string>
                        <string role="key" value="parent"></string>
@@ -5283,7 +5283,7 @@ clicking the red X next to the option."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Escritura%20Creativa%20:ESCRITURA%20CREATIVA%20Y%20POEMAS%20"></string>
         <string role="key" value="parent"></string>
@@ -5776,7 +5776,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Escritura%20Creativa%20:ESCRITURA%20CREATIVA%20Y%20POEMAS%20:Actividad%201"></string>
            <string role="key" value="parent"></string>
@@ -7361,7 +7361,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="singlepage"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Escritura%20Creativa%20:ESCRITURA%20CREATIVA%20Y%20POEMAS%20:Actividad%201:Actividad%202"></string>
               <string role="key" value="parent"></string>
